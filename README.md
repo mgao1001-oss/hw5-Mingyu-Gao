@@ -32,4 +32,4 @@ The script reliably computes deadlines and assigns risk levels. It integrates we
 - Risk scoring is simplified and could be improved
 
 ## Demo Video
-(put your video link here)
+https://youtu.be/gFL6B_xOX00
